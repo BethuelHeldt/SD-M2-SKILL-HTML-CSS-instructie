@@ -1,0 +1,157 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  min-height: 100vh;
+}
+
+html {
+  font-size: 62.5%; /* font is 10px */
+  scroll-behavior: smooth;
+}
+
+body {
+  font-size: 2rem;
+  font-family: sans-serif;
+  background-color: rgb(232, 232, 240);
+}
+
+h1, h2, h3 {
+  line-height: 1.5em;
+  font-weight: 100;
+}
+
+p {
+  line-height: 1.4em;
+  font-size: 1.5rem;
+}
+
+ol, ul {
+  margin-left: 4rem;
+}
+
+main {
+  padding: 3rem;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 3rem;
+}
+
+.les p, .les li {
+  font-size: 1.5rem;
+  line-height: 1.4em;
+}
+
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 3rem;
+}
+.flex-container > div {
+  flex: 0 1 calc(50% - 1.5rem);
+}
+
+header {
+  padding: 3rem;
+  background-color: #18b0e6;
+  color: white;
+  border-radius: 0;
+  display: flex;
+  flex-flow: row wrap;
+}
+header h1 {
+  flex: 0 1 100%;
+}
+header h2 {
+  flex: 0 1 50%;
+  font-size: 2rem;
+}
+header h3 {
+  flex: 0 1 50%;
+  text-align: right;
+  font-size: 2rem;
+}
+
+nav {
+  padding: 1rem 3rem;
+  background-color: #0c9ace;
+  color: #c3f8ff;
+  border-radius: 0;
+  position: sticky;
+  top: 0;
+  z-index: 3;
+}
+nav a {
+  text-decoration: none;
+  color: #c3f8ff;
+  font-size: 1.5rem;
+  padding: 0 1em;
+  line-height: 3rem;
+  display: inline-block;
+  border-radius: 2px;
+  transition: background 0.3s ease-out;
+}
+nav a:hover {
+  background-color: #e42785;
+  color: #c3f8ff;
+}
+nav input[type=radio] {
+  display: none;
+}
+nav input[type=radio]:checked ~ a {
+  background-color: #e42785;
+  color: #c3f8ff;
+}
+
+article {
+  min-height: calc(100vh - 6rem - 5rem); /*article is minimaal 100vh min margin-top en bottom (6rem) min hoogte nav (5rem) */
+  background-color: white;
+  padding: 3rem;
+  background-color: white;
+  color: black;
+  border-radius: 3px;
+  box-shadow: 0 0 1rem 0px rgba(10, 48, 62, 0.1);
+  padding: 2rem;
+  scroll-margin-top: 8rem; /*nav = 5rem hoog, article = 100vh - 6rem boven en onder. Dus 5rem + 3 rem = 8 rem*/
+}
+article a {
+  color: #e42785;
+  text-decoration: none;
+  position: relative;
+}
+article a::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: auto;
+  height: 1px;
+  background-color: #e42785;
+  width: 0;
+  transition: all 0.3s ease-out;
+}
+article a:hover:after {
+  width: 100%;
+  left: 0;
+  right: auto;
+}
+article h2 {
+  color: #0a303e;
+}
+article h3 {
+  margin-top: 0.5em;
+}
+
+@media screen and (max-width: 768px) {
+  .flex-container > div {
+    flex-basis: 100%;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

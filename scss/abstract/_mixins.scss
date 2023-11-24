@@ -1,0 +1,12 @@
+@use "colors";
+
+@mixin blok($bgcolor: white, $color: black, $border-radius:0, $padding: 3rem) {
+    padding: $padding;
+    background-color: $bgcolor;
+    color: $color;
+    border-radius: $border-radius;
+}
+
+@mixin boxshadow{
+    box-shadow: 0 0 1rem 0px transparentize(colors.$shadow_kleur, 0.9);
+}

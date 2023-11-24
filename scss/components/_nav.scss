@@ -1,0 +1,33 @@
+@use "../abstract/colors";
+@use "../abstract/mixins";
+
+nav{
+    @include mixins.blok(colors.$nav_bgkleur,colors.$nav_color, 0, 1rem 3rem);
+    position: sticky;
+    top: 0;
+    z-index: 3;
+        
+    & a{
+        text-decoration: none;
+        color: colors.$nav_color;
+        font-size: 1.5rem;
+        padding: 0 1em;
+        line-height: 3rem;
+        display: inline-block;
+        border-radius: 2px;
+        transition: background .3s ease-out;
+
+        &:hover{
+            background-color: colors.$nav_color_hover;
+            color: colors.$nav_color;
+        }
+
+    } 
+    & input[type="radio"]{
+        display: none;
+    }
+    & input[type="radio"]:checked ~ a{
+        background-color: colors.$nav_color_hover;
+        color: colors.$nav_color;
+    }
+}

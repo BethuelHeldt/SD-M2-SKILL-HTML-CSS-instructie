@@ -1,0 +1,43 @@
+@use "../abstract/colors";
+@use "../abstract/mixins";
+
+
+article{
+    min-height: calc(100vh - 6rem - 5rem); /*article is minimaal 100vh min margin-top en bottom (6rem) min hoogte nav (5rem) */
+    background-color: colors.$les_bgcolor;
+    @include mixins.blok(colors.$les_bgcolor,colors.$les_color, $border-radius:3px);
+    @include mixins.boxshadow;
+    padding: 2rem;
+    scroll-margin-top: 8rem;/*nav = 5rem hoog, article = 100vh - 6rem boven en onder. Dus 5rem + 3 rem = 8 rem*/
+
+    & a{
+        color: colors.$linkkleur;
+        text-decoration: none;
+        position: relative;
+
+        &::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            left: auto;
+            height: 1px;
+            background-color: colors.$linkkleur;
+            width: 0;
+            transition: all .3s ease-out;
+        }
+    }
+    & a:hover:after {
+        width: 100%;
+        left: 0;
+        right: auto;
+    }
+
+    & h2{
+        color: colors.$h2_les_kleur;
+    }
+
+    & h3{
+        margin-top: .5em;
+    }
+}

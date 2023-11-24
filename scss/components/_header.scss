@@ -1,0 +1,24 @@
+@use "../abstract/colors";
+@use "../abstract/mixins";
+
+
+header{
+    @include mixins.blok(colors.$header_bgcolor,colors.$header_color);
+
+    display: flex;
+    flex-flow: row wrap;
+
+    & h1{
+        flex: 0 1 100%;
+    }
+    & h2{
+        flex:0 1 50%;
+        font-size: 2rem;
+    }
+    & h3{
+        flex:0 1 50%;
+        text-align: right;
+        font-size: 2rem;
+    }
+
+}
