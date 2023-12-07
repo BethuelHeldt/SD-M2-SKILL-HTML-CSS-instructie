@@ -82,7 +82,7 @@ foreach ($videoArray as $depthKey => $depthValue) {
 ?>
     </main>
     <footer>
-        <p>&copy;De video-instructies zijn geproduceerd door Jeroen Rijsdijk - deze lespagina is geproduceerd door Bethuel Heldt, 2023</p>
+        <p>&copy; De video-instructies zijn geproduceerd door Jeroen Rijsdijk - deze lespagina is geproduceerd door Bethuel Heldt, 2023</p>
     </footer>
     <script src="js/script.js"></script>
 </body>
