@@ -25,7 +25,6 @@ if ($videoArray === null && json_last_error() !== JSON_ERROR_NONE) {
         <h1>SD HTML/CSS Instructiepagina</h1>
         <h2>leerjaar 1 - Module 2 - SKILL</h2>
         <h3>Docent: Bethuel Heldt</h3>
-        
     </header>
 
     <nav>
@@ -83,7 +82,7 @@ foreach ($videoArray as $depthKey => $depthValue) {
 ?>
     </main>
     <footer>
-        <p>De video-instructies zijn geproduceerd door Jeroen Rijsdijk</p>
+        <p>&copy;De video-instructies zijn geproduceerd door Jeroen Rijsdijk - deze lespagina is geproduceerd door Bethuel Heldt, 2023</p>
     </footer>
     <script src="js/script.js"></script>
 </body>
