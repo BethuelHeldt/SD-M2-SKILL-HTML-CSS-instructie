@@ -2,7 +2,7 @@
    [
       ["LESSENREEKS 1","",""],
       [
-         "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%201/video_1%20Introductie.mp4?csf=1&web=1&e=wjbXNo",
+         "https://mediacollegeamsterdam.sharepoint.com/teams/M2SKIL/_layouts/15/embed.aspx?UniqueId=3b351703-2a2e-4d92-afec-60332f7d641f&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create",
          "Introductie",
          ""
       ],[
@@ -27,7 +27,7 @@
          ""
       ],[
          "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%201/video_7%20img%20stylen.mp4?csf=1&web=1&e=uJuldy",
-         "img stylen en de CSS <strong>reset style</strong> toevoegen (vanaf 3.20 min.)",
+         "img stylen",
          ""
       ],[
          "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%201/video_8%20padding,%20border,%20border-radius%20in%20CSS.mp4?csf=1&web=1&e=QJqTIJ",
@@ -93,11 +93,11 @@
          ""
       ],[
          "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%203/video_7.mp4?csf=1&web=1&e=JbGnAC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
-         "Responsive maken, deel I: de <span class='code'>@media</span> mediaquery",
+         "Responsive maken, deel 1: de <span class='code'>@media</span> mediaquery",
          ""
       ],[
          "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%203/video_8.mp4?csf=1&web=1&e=f7GKqt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
-         "Responsive maken, deel II: mediaqueries voor verschillende schermgroottes",
+         "Responsive maken, deel 2: mediaqueries voor verschillende schermgroottes",
          ""
       ],[
          "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%203/video_9.mp4?csf=1&web=1&e=Z1Ajdn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
@@ -111,82 +111,45 @@
    ],[
       ["LESSENREEKS 4","",""],
       [
-         "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%204/Video_1.mp4?csf=1&web=1&e=fbrG00&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
-         "Top-knop deel I - de <span class='code'>button</span> tag",
+         "",
+         "",
          ""
       ],[
-         "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%204/Video_2.mp4?csf=1&web=1&e=Q1moaW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
-         "Top-knop deel II - button stylen",
+         "",
+         "",
          ""
       ],[
-         "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%204/Video_3.mp4?csf=1&web=1&e=O2LvM6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
-         "Top-knop deel III - button klikbaar maken",
-         "Let op: eerst leer je een <span class='code'>button</span> tag te maken, maar later wordt dat aangepast door de <span class='code'>&lt;a href&gt;</span>. Een button in een link (of andersom) is geen valide HTML."
-      ],[
-         "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%204/Video_4.mp4?csf=1&web=1&e=swiZCf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
-         "Top knop deel IV - class geven aan de topknop en responsive maken met mediaqueries",
+         "",
+         "",
          ""
       ],[
-         "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%204/video_5.mp4?csf=1&web=1&e=PMMgFC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
-         "Navigatie  naar andere pagina's maken in een listing <span class='code'>ul li</span>",
-         ""
-      ],
-      [
-         "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%204/video_6.mp4?csf=1&web=1&e=cdmLfN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
-         "Navigatie stylen met CSS deel I",
+         "",
+         "",
          ""
       ],[
-         "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%204/video_7.mp4?csf=1&web=1&e=WCvlhD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
-         "Navigatie stylen met CSS deel II - Navigatie centreren en uitlijnen",
-         ""
-      ],[
-         "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%204/video_8.mp4?csf=1&web=1&e=Mf5UCy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
-         "Navigatie stylen met CSS deel III - li stijlen als navigatie-blokken",
-         ""
-      ],[
-         "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%204/video_9.mp4?csf=1&web=1&e=KV5T1e&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
-         "Link maken van de navigatie navigatie-blokken",
-         ""
-      ],[
-         "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%204/video_10.mp4?csf=1&web=1&e=buWCyY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
-         "<span class='code'>a</span> horizontaal en verticaal in het midden centreren",
-         "Let op: dit kan wel met flex-box (i.t.t. wat in de video wordt uitgelegd). Zet in je CSS op de <span class='code'>li > a</span>: <span class='code'>display:flex; place-items: center;</span>. <br><a href='https://developer.mozilla.org/en-US/docs/Web/CSS/place-items' target='_blank'>Lees meer over place-items</a>"
-      ],[
-         "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%204/video_11.mp4?csf=1&web=1&e=DrbXZd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
-         "Navigatie afmaken met links",
-         "Let op: hier wordt heel handig uitgelegd hoe je heel snel meerdere tags laat genereren door VSCode.<br>Bedenk alvast over welke onderwerpen de twee andere blog-pagina's gaan die je gaat maken. "
-      ],[
-         "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%204/video_12.mp4?csf=1&web=1&e=m1NWY4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
-         "Pagina's maken en de link van de huidige pagina actief maken met een active-class",
-         ""
-      ],[
-         "https://mediacollegeamsterdam.sharepoint.com/:v:/r/teams/M2SKIL/Lesmateriaal/HTML%20%26%20CSS/Les%204/video_13.mp4?csf=1&web=1&e=3YkiZf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
-         "Navigatie responsive maken",
+         "",
+         "",
          ""
       ]
    ],[
-      ["LESSENREEKS 5","",""],
+      ["LESSENREEKS 5",""],
       [
          "",
          "",
          ""
-      ],
-      [
+      ],[
          "",
          "",
          ""
-      ],
-      [
+      ],[
          "",
          "",
          ""
-      ],
-      [
+      ],[
          "",
          "",
          ""
-      ],
-      [
+      ],[
          "",
          "",
          ""

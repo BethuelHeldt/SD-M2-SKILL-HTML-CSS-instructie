@@ -1,0 +1,6 @@
+@use "../abstract/colors";
+@use "../abstract/mixins";
+
+footer{
+    @include mixins.blok(colors.$header_bgcolor,colors.$header_color);
+}

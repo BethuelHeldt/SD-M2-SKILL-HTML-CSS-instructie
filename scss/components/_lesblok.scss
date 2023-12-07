@@ -26,18 +26,23 @@ article{
             width: 0;
             transition: all .3s ease-out;
         }
+    
+        &:hover:after {
+            width: 100%;
+            left: 0;
+            right: auto;
+        }
     }
-    & a:hover:after {
-        width: 100%;
-        left: 0;
-        right: auto;
-    }
-
+    
     & h2{
         color: colors.$h2_les_kleur;
     }
 
     & h3{
         margin-top: .5em;
+    }
+    & .les p, .les li{
+        font-size: 1.5rem;
+        line-height: 1.4em;
     }
 }

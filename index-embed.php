@@ -10,7 +10,7 @@
 
 <?php
 // Read the JSON file content
-$jsonContent = file_get_contents('video-instructies.json');
+$jsonContent = file_get_contents('video-instructies-embed.json');
 // Decode the JSON into a PHP array
 $videoArray = json_decode($jsonContent, true);
 // Check if decoding was successful
@@ -82,9 +82,12 @@ foreach ($videoArray as $depthKey => $depthValue) {
 }
 ?>
     </main>
-    <footer>
-        <p>De video-instructies zijn geproduceerd door Jeroen Rijsdijk</p>
-    </footer>
+    <article class="video-container">
+        <a href="#sluiten" class="video-close">sluiten</a>
+        <div class="video-loader">
+            <iframe src="#" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title=""></iframe>
+        </div>
+    </article>
     <script src="js/script.js"></script>
 </body>
 </html>
